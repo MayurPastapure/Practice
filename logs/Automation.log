@@ -1,0 +1,12 @@
+18:24:53.213 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mayur\eclipse-workspace\CollectXpress\testng.xml
+
+18:25:01.502 [main] INFO  testCases.LoginTest - ***Starting test case verify_correctlogin***
+18:25:17.570 [main] INFO  testCases.LoginTest - ***Starting test case verify_correctlogin***
+18:25:33.110 [main] INFO  testCases.LoginTest - ***Starting test case verify_correctlogin***
+18:39:52.349 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mayur\eclipse-workspace\CollectXpress\testng.xml
+
+18:40:03.806 [main] INFO  testCases.LoginTest - ***Starting test case verify_correctlogin***
+18:40:22.254 [main] INFO  testCases.LoginTest - ***Starting test case verify_correctlogin***
+18:40:43.407 [main] INFO  testCases.LoginTest - ***Starting test case verify_correctlogin***
